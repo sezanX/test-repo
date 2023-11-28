@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main () {
-    printf("Test project!");
+    printf("Empty!");
 
     return 0;
 }
